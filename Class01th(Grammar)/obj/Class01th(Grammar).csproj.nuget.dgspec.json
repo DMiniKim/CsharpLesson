@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\Program.csproj": {}
+    "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Class01th(Grammar)\\Class01th(Grammar).csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\Program.csproj": {
+    "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Class01th(Grammar)\\Class01th(Grammar).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\Program.csproj",
-        "projectName": "Program",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\Program.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Class01th(Grammar)\\Class01th(Grammar).csproj",
+        "projectName": "Class01th(Grammar)",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Class01th(Grammar)\\Class01th(Grammar).csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Class01th(Grammar)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

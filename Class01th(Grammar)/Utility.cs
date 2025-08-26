@@ -7,9 +7,23 @@ using System.Threading.Tasks;
 
 namespace Program
 {
+    public struct Vector2
+    {
+        public int x;
+        public int y;
+        public Vector2(int x, int y)
+        {
+            this.x = x;
+            this.y = y;
+        }
+    }
     internal class Utility
     {
         private int data;
+
+
+        public Vector2 direction;
+
 
         public void Pause()
         {
@@ -21,9 +35,13 @@ namespace Program
             x = y;
             y = temp; 
         }
-        public void Absolute(in int value)
+        public int Absolute(in int value)
         {            
-            Console.WriteLine("value : " + value  );
+            return (value < 0)? -value : value;
+        }
+        public void Magnitude(Vector2 vector2 , out float length)
+        {
+            length = (float)(Math.Sqrt(((vector2.x)* (vector2.x)) + ((vector2.y)*(vector2.y))));
         }
     }
 }

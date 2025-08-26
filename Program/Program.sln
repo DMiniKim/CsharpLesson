@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35919.96 d17.13
+VisualStudioVersion = 17.13.35919.96
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program", "Program.csproj", "{42627EE9-7783-472E-B5C7-785854292737}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class01th(Grammar)", "..\Class01th(Grammar)\Class01th(Grammar).csproj", "{A953E504-0C57-4583-8086-23F9C6B1FB19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{42627EE9-7783-472E-B5C7-785854292737}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42627EE9-7783-472E-B5C7-785854292737}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42627EE9-7783-472E-B5C7-785854292737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A953E504-0C57-4583-8086-23F9C6B1FB19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A953E504-0C57-4583-8086-23F9C6B1FB19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A953E504-0C57-4583-8086-23F9C6B1FB19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A953E504-0C57-4583-8086-23F9C6B1FB19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
