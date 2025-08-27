@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program", "Program.csproj",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class01th(Grammar)", "..\Class01th(Grammar)\Class01th(Grammar).csproj", "{A953E504-0C57-4583-8086-23F9C6B1FB19}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class02th(Collection)", "..\Class02th(Collection)\Class02th(Collection).csproj", "{9BB8786C-ECB2-4341-B627-F9148BB5EF28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A953E504-0C57-4583-8086-23F9C6B1FB19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A953E504-0C57-4583-8086-23F9C6B1FB19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A953E504-0C57-4583-8086-23F9C6B1FB19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BB8786C-ECB2-4341-B627-F9148BB5EF28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB8786C-ECB2-4341-B627-F9148BB5EF28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB8786C-ECB2-4341-B627-F9148BB5EF28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB8786C-ECB2-4341-B627-F9148BB5EF28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
