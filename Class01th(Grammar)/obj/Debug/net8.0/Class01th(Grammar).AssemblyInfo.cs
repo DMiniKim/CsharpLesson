@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Class01th(Grammar)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f3f09b9188cce8a4700246001ddfc9f0e0803f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd15a37dd413218e0897e52aeb51e7dda36a2a97")]
 [assembly: System.Reflection.AssemblyProductAttribute("Class01th(Grammar)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Class01th(Grammar)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
