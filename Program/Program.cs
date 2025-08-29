@@ -2,8 +2,8 @@
 
 namespace Program
 {
-    internal class Program     
-    {        
+    internal class Program
+    {
         static void Main(string[] args)
         {
             #region 단일 책임 원칙
@@ -29,9 +29,25 @@ namespace Program
             // => 기존의 코드를 변경 하지 않으면서 추가 코드에 문제가 없어야 한다.
             // 버드란드 마이어 ( Bertrand Meyer )
             Enchant enchant = new Enchant();
-            enchant.Enhance(new Item("검", 10, 5, 0));
-            enchant.Enhance(new Item("목걸이", 1, 1, 10));
-            enchant.Enhance(new Item("신발", 0, 20, 0));
+            Sword sword = new Sword("검", 10, 5, 0);
+            Neckless neckless = new Neckless("목걸이", 1, 1, 10);
+            Shoes shoes = new Shoes("신발", 0, 20, 0);
+            
+            enchant.Enhance(sword);
+            enchant.Enhance(neckless);
+            enchant.Enhance(shoes);
+
+            // 위 형태의 로직 형태에 비해
+
+            // 개방 폐쇄 원칙에 따른 로직 흐름은 아래와 같다.
+
+            // 1. 각 무기별 클래스를 생성
+            // 2. 각 무기별 Upgrade라는 함수 생성
+            // 3. Interface라는 인터페이스 클래스 생성
+            // 4. 여기서 각 클래스별로 따로 객체 생성 후 .Upgrade;
+
+ 
+            
 
             #endregion
 

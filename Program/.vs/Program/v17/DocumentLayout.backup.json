@@ -3,28 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|c:\\users\\administrator\\desktop\\csharplesson\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|c:\\users\\administrator\\desktop\\csharplesson\\program\\merchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|solutionrelative:merchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|c:\\users\\administrator\\desktop\\csharplesson\\program\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|c:\\users\\administrator\\desktop\\csharplesson\\program\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|solutionrelative:idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|c:\\users\\administrator\\desktop\\csharplesson\\program\\imoveable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|solutionrelative:imoveable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|c:\\users\\administrator\\desktop\\csharplesson\\program\\itradeable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|solutionrelative:itradeable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|c:\\users\\administrator\\desktop\\csharplesson\\program\\princess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|solutionrelative:princess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|c:\\users\\administrator\\desktop\\csharplesson\\program\\mercenary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|solutionrelative:mercenary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|c:\\users\\administrator\\desktop\\csharplesson\\program\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|solutionrelative:entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|c:\\users\\administrator\\desktop\\csharplesson\\program\\enchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|solutionrelative:enchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|c:\\users\\administrator\\desktop\\csharplesson\\program\\reward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|solutionrelative:reward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|c:\\users\\administrator\\desktop\\csharplesson\\program\\shoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|solutionrelative:shoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|c:\\users\\administrator\\desktop\\csharplesson\\program\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|solutionrelative:quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|c:\\users\\administrator\\desktop\\csharplesson\\program\\ienhance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|solutionrelative:ienhance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|c:\\users\\administrator\\desktop\\csharplesson\\program\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|solutionrelative:service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|c:\\users\\administrator\\desktop\\csharplesson\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|c:\\users\\administrator\\desktop\\csharplesson\\program\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|solutionrelative:sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|c:\\users\\administrator\\desktop\\csharplesson\\program\\neckless.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|solutionrelative:neckless.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|c:\\users\\administrator\\desktop\\csharplesson\\program\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42627EE9-7783-472E-B5C7-785854292737}|Program.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,78 +70,182 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Enchant.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\Enchant.cs",
-              "RelativeDocumentMoniker": "Enchant.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\Enchant.cs",
-              "RelativeToolTip": "Enchant.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAADwvxgAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ITradeable.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\ITradeable.cs",
+              "RelativeDocumentMoniker": "ITradeable.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\ITradeable.cs",
+              "RelativeToolTip": "ITradeable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T06:25:13.658Z",
+              "WhenOpened": "2025-08-29T06:30:04.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Princess.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\Princess.cs",
+              "RelativeDocumentMoniker": "Princess.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\Princess.cs",
+              "RelativeToolTip": "Princess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:29:29.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mercenary.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\Mercenary.cs",
+              "RelativeDocumentMoniker": "Mercenary.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\Mercenary.cs",
+              "RelativeToolTip": "Mercenary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:28:35.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMoveable.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\IMoveable.cs",
+              "RelativeDocumentMoniker": "IMoveable.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\IMoveable.cs",
+              "RelativeToolTip": "IMoveable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:27:50.74Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "IDamageable.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\IDamageable.cs",
+              "RelativeDocumentMoniker": "IDamageable.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\IDamageable.cs",
+              "RelativeToolTip": "IDamageable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:27:34.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Merchant.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\Merchant.cs",
+              "RelativeDocumentMoniker": "Merchant.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\Merchant.cs",
+              "RelativeToolTip": "Merchant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:17:54.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\Entity.cs",
+              "RelativeDocumentMoniker": "Entity.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\Entity.cs",
+              "RelativeToolTip": "Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:04:51.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enchant.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\Enchant.cs",
+              "RelativeDocumentMoniker": "Enchant.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\Enchant.cs",
+              "RelativeToolTip": "Enchant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T04:33:14.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEnhance.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\IEnhance.cs",
+              "RelativeDocumentMoniker": "IEnhance.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\IEnhance.cs",
+              "RelativeToolTip": "IEnhance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T04:25:45.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Shoes.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\Shoes.cs",
+              "RelativeDocumentMoniker": "Shoes.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\Shoes.cs",
+              "RelativeToolTip": "Shoes.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T04:19:29.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Neckless.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\Neckless.cs",
+              "RelativeDocumentMoniker": "Neckless.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\Neckless.cs",
+              "RelativeToolTip": "Neckless.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwBsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T04:16:16.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Sword.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\Sword.cs",
+              "RelativeDocumentMoniker": "Sword.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\Sword.cs",
+              "RelativeToolTip": "Sword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T04:11:46.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\Item.cs",
               "RelativeDocumentMoniker": "Item.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\Item.cs",
               "RelativeToolTip": "Item.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAowA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-28T06:05:50.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Reward.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\Reward.cs",
-              "RelativeDocumentMoniker": "Reward.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\Reward.cs",
-              "RelativeToolTip": "Reward.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T04:46:00.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Service.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\Service.cs",
-              "RelativeDocumentMoniker": "Service.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\Service.cs",
-              "RelativeToolTip": "Service.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T04:31:20.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Quest.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\Quest.cs",
-              "RelativeDocumentMoniker": "Quest.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\Quest.cs",
-              "RelativeToolTip": "Quest.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBoAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T04:29:40.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CsharpLesson\\Program\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwCsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T04:14:50.655Z",
               "EditorCaption": ""

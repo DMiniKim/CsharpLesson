@@ -6,11 +6,14 @@ using System.Threading.Tasks;
 
 namespace Program
 {
-    internal class Enchant
+    internal abstract class Entity
     {
-        public void Enhance(IUpgradeable item)
+        protected string name;
+
+        public Entity(string name)
         {
-            item.Upgrade();
+            this.name = name;
         }
+        
     }
 }

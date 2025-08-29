@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace Program
 {
-    internal class Enchant
+    internal class Princess
     {
-        public void Enhance(IUpgradeable item)
-        {
-            item.Upgrade();
-        }
     }
 }
